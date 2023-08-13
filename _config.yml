@@ -21,9 +21,10 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Zixuan Chen (陈子轩)"
+  name             : "Zixuan Chen"
+  chinese          : "陈子轩"
   avatar           : "images/czx.png"
-  bio              : "Sun Yat-Sen University"
+  bio              : "🏫 Sun Yat-Sen University"
   location         : "China"
   employer         :
   pubmed           : 
