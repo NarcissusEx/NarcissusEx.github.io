@@ -73,7 +73,7 @@ This paper is a streamline salient object detector that is beyond the real-time 
 
 ## 📚 Video Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/itsd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/ice.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Motion-appearance interactive encoding for object segmentation in unconstrained videos](https://ieeexplore.ieee.org/abstract/document/8678803) \\
