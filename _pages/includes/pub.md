@@ -1,7 +1,7 @@
 
 # 📝 Publications 
-## 🎙 View Synthesis & Medical Image Processing
 
+## 🧑‍🎨 View Synthesis for Medical Applications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/cunerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -29,7 +29,7 @@
 </div>
 </div>
 
-## 💻 Anomaly Detection
+## 🏭 Anomaly Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/hntmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +43,7 @@ This paper aims to address the *hard mining* issues in Industrial Anomaly Detect
 </div>
 </div>
 
-## 🧑‍🎨 Salient Object Detection
+## 💃 Salient Object Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/bal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,7 +71,7 @@ This paper is a streamline salient object detector that is beyond the real-time 
 </div>
 </div>
 
-## 📚 Video Object Detection
+## 🎦 Video Object Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/ice.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
