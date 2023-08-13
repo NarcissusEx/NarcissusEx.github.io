@@ -1,92 +1,59 @@
 
 # 📝 Publications 
-## 🎙 View Synthesis & Medical Image Processing
+## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/cunerf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution](https://cunerf.github.io/) \\
-**Zixuan Chen**, Lingxiao Yang, Jian-Huang Lai, Xiaohua Xie. \\
-*International Conference on Computer Vision* (**ICCV**), 2023.
+[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
-**CuNeRF** is the first *zero-shot* framework for Medical Image Arbitrary-Scale Super-Resolution.
+[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-[**PDF**](https://arxiv.org/pdf/2303.16242) [**Project**](https://cunerf.github.io/) [**Code**](https://github.com/NarcissusEx/CuNeRF)
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/aprf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[APRF: Anti-Aliasing Projection Representation Field for Inverse Problem in Imaging](https://arxiv.org/abs/2307.05270) \\
-**Zixuan Chen**, Lingxiao Yang, Jian-Huang Lai, Xiaohua Xie.
+[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
+**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
-**APRF** aims to address the *aliasing errors* in Sparse-View Computed Tomography reconstruction.
-
-[**PDF**](https://arxiv.org/abs/2307.05270)
+[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
 </div>
 </div>
 
-## 💻 Anomaly Detection
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/hntmm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hard Nominal Example-aware Template Mutual Matching for Industrial Anomaly Detection](https://arxiv.org/abs/2303.16191) \\
-**Zixuan Chen**, Lingxiao Yang, Jian-Huang Lai, Xiaohua Xie.
+[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
+Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
-This paper aims to address the *hard mining* issues in Industrial Anomaly Detection.
+- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
+- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
 
-[**PDF**](https://arxiv.org/abs/2303.16191)
+- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
 </div>
 </div>
 
-## 🧑‍🎨 Salient Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/bal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contour-aware loss: Boundary-aware learning for salient object segmentation](https://ieeexplore.ieee.org/abstract/document/9262030) \\
-**Zixuan Chen**, Huajun Zhou, Jian-Huang Lai, Lingxiao Yang, Xiaohua Xie. \\
-*IEEE Transactions on Image Processing* (**IEEE TIP**), 2020.
+[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
+**Yi Ren**, Jinglin Liu, Zhou Zhao
 
-This paper aims to empoly the *contour cues* and *hierarchical attention modules* to locate the salient objects.
-
-[**PDF**](https://ieeexplore.ieee.org/abstract/document/9262030) 
+[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/itsd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.html) \\
-Huajun Zhou, Xiaohua Xie, Jian-Huang Lai, **Zixuan Chen**, Lingxiao Yang. \\
-*Computer Vision and Pattern Recognition Conference* (**CVPR**), 2020.
-
-This paper is a streamline salient object detector that is beyond the real-time speed!
-
-[**PDF**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf) [**Code**](https://github.com/moothes/ITSD-pytorch)
-</div>
-</div>
-
-## 📚 Video Object Detection
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/itsd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Motion-appearance interactive encoding for object segmentation in unconstrained videos](https://ieeexplore.ieee.org/abstract/document/8678803) \\
-**Zixuan Chen**, Chunchao Guo, Jian-Huang Lai, Xiaohua Xie. \\
-*IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2019.
-
-This paper aims to integrate motion and appearance cues to segment the moving object in video.
-
-[**PDF**](https://ieeexplore.ieee.org/abstract/document/8678803)
-</div>
-</div>
-
-<!-- - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
+- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
 - ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, Chenye Cui, Jinglin Liu and Zhou Zhao
@@ -138,4 +105,4 @@ This paper aims to integrate motion and appearance cues to segment the moving ob
 - ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
 ## Others
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren** -->
+- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
