@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-## 🧑‍🎨 Implicit Neural Representation
+## 📷 Implicit Neural Representation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/cunerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +82,7 @@ This paper is a streamline salient object detector that is beyond the real-time 
 </div>
 </div>
 
-## 🎦 Video Object Segmentation
+## 📹 Video Object Segmentation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/ice.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
