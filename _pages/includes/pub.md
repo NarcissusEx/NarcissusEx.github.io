@@ -14,9 +14,9 @@
 
 <!-- [**PDF**](https://arxiv.org/pdf/2303.16242) [**Project**](https://cunerf.github.io/) [**Code**](https://github.com/NarcissusEx/CuNeRF) -->
 <span class="links">
-  <a href="https://arxiv.org/pdf/2303.16242"><b>PDF</b></a>
-  <a href="https://CuNerf.github.io/"><b>Project</b></a>
-  <a href="https://github.com/NarcissusEx/CuNeRF"><b>Code</b></a>
+  <a style="margin-right : 20px;" href="https://arxiv.org/pdf/2303.16242"><b>PDF</b></a>
+  <a style="margin-right : 20px;" href="https://CuNerf.github.io/"><b>Project</b></a>
+  <a style="margin-right : 20px;" href="https://github.com/NarcissusEx/CuNeRF"><b>Code</b></a>
 </span>
 
 </div>
@@ -74,8 +74,8 @@ Huajun Zhou, Xiaohua Xie, Jian-Huang Lai, **Zixuan Chen**, Lingxiao Yang. \\
 This paper is a streamline salient object detector that is beyond the real-time speed!
 
 <span class="links">
-  <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf"><b>PDF</b></a>
-  <a href="https://github.com/moothes/ITSD-pytorch"><b>Code</b></a>
+  <a style="margin-right : 20px;" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf"><b>PDF</b></a>
+  <a style="margin-right : 20px;" href="https://github.com/moothes/ITSD-pytorch"><b>Code</b></a>
 </span>
 
 <!-- [**PDF**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf) [**Code**](https://github.com/moothes/ITSD-pytorch) -->
