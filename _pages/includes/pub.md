@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/cunerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution](https://cunerf.github.io/) \\
+[CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution](https://NarcissusEx.github.io/CuNeRF) \\
 **Zixuan Chen**, Lingxiao Yang, Jian-Huang Lai, Xiaohua Xie. \\
 *International Conference on Computer Vision* (**ICCV**), 2023.
 
@@ -15,7 +15,7 @@
 <!-- [**PDF**](https://arxiv.org/pdf/2303.16242) [**Project**](https://cunerf.github.io/) [**Code**](https://github.com/NarcissusEx/CuNeRF) -->
 <span class="links">
   <a style="margin-right : 20px;" href="https://arxiv.org/pdf/2303.16242"><b>PDF</b></a>
-  <a style="margin-right : 20px;" href="https://CuNerf.github.io/"><b>Project</b></a>
+  <a style="margin-right : 20px;" href="https://NarcissusEx.github.io/CuNeRF"><b>Project Page</b></a>
   <a style="margin-right : 20px;" href="https://github.com/NarcissusEx/CuNeRF"><b>Code</b></a>
 </span>
 
