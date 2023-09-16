@@ -1,4 +1,7 @@
-
+[Lingxiao Yang]:https://zjjconan.github.io
+[Jian-Huang Lai]:https://cse.sysu.edu.cn/content/2498
+[Xiaohua Xie]:https://cse.sysu.edu.cn/content/2478
+[Huajun Zhou]:https://github.com/moothes
 # 📝 Publications 
 
 ## 📷 Implicit Neural Representation
@@ -7,7 +10,7 @@
 <div class='paper-box-text' markdown="1">
 
 [CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution](https://NarcissusEx.github.io/CuNeRF) \\
-**Zixuan Chen**, Lingxiao Yang, Jian-Huang Lai, Xiaohua Xie. \\
+**Zixuan Chen**, [Lingxiao Yang], [Jian-Huang Lai], [Xiaohua Xie]. \\
 *International Conference on Computer Vision* (**ICCV**), 2023.
 
 **CuNeRF** is the first *zero-shot* framework for Medical Image Arbitrary-Scale Super-Resolution.
@@ -27,7 +30,7 @@
 <div class='paper-box-text' markdown="1">
 
 [APRF: Anti-Aliasing Projection Representation Field for Inverse Problem in Imaging](https://arxiv.org/abs/2307.05270) \\
-**Zixuan Chen**, Lingxiao Yang, Jian-Huang Lai, Xiaohua Xie.
+**Zixuan Chen**, [Lingxiao Yang], [Jian-Huang Lai], [Xiaohua Xie].
 
 **APRF** aims to address the *aliasing errors* in Sparse-View Computed Tomography reconstruction.
 
@@ -41,7 +44,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Hard Nominal Example-aware Template Mutual Matching for Industrial Anomaly Detection](https://arxiv.org/abs/2303.16191) \\
-**Zixuan Chen**, Lingxiao Yang, Jian-Huang Lai, Xiaohua Xie.
+**Zixuan Chen**, [Lingxiao Yang], [Jian-Huang Lai], [Xiaohua Xie].
 
 This paper aims to address the *hard mining* issues in Industrial Anomaly Detection.
 
@@ -55,10 +58,10 @@ This paper aims to address the *hard mining* issues in Industrial Anomaly Detect
 <div class='paper-box-text' markdown="1">
 
 [Contour-aware loss: Boundary-aware learning for salient object segmentation](https://ieeexplore.ieee.org/abstract/document/9262030) \\
-**Zixuan Chen**, Huajun Zhou, Jian-Huang Lai, Lingxiao Yang, Xiaohua Xie. \\
+**Zixuan Chen**, [Huajun Zhou], [Jian-Huang Lai], [Lingxiao Yang], [Xiaohua Xie]. \\
 *IEEE Transactions on Image Processing* (**IEEE TIP**), 2020.
 
-This paper aims to empoly the *contour cues* and *hierarchical attention modules* to locate the salient objects.
+This paper aims to employ *contour cues* and *hierarchical attention modules* to locate the salient objects.
 
 [**PDF**](https://ieeexplore.ieee.org/abstract/document/9262030) 
 </div>
@@ -68,10 +71,10 @@ This paper aims to empoly the *contour cues* and *hierarchical attention modules
 <div class='paper-box-text' markdown="1">
 
 [Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.html) \\
-Huajun Zhou, Xiaohua Xie, Jian-Huang Lai, **Zixuan Chen**, Lingxiao Yang. \\
+[Huajun Zhou], [Xiaohua Xie], [Jian-Huang Lai], **Zixuan Chen**, [Lingxiao Yang]. \\
 *Computer Vision and Pattern Recognition Conference* (**CVPR**), 2020.
 
-This paper is a streamline salient object detector that is beyond the real-time speed!
+This paper is a streamlined salient object detector that is beyond the real-time speed!
 
 <span class="links">
   <a style="margin-right : 20px;" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf"><b>PDF</b></a>
@@ -88,7 +91,7 @@ This paper is a streamline salient object detector that is beyond the real-time 
 <div class='paper-box-text' markdown="1">
 
 [Motion-appearance interactive encoding for object segmentation in unconstrained videos](https://ieeexplore.ieee.org/abstract/document/8678803) \\
-**Zixuan Chen**, Chunchao Guo, Jian-Huang Lai, Xiaohua Xie. \\
+**Zixuan Chen**, Chunchao Guo, [Jian-Huang Lai], [Xiaohua Xie]. \\
 *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2019.
 
 This paper aims to integrate motion and appearance cues to segment the moving object in video.
