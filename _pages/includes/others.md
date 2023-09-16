@@ -1,5 +1,5 @@
 
-# 📖 Educations `&` Research Experience
+# 📖 Educations &amp; Research Experience
 - *2021.09 - present*, Ph.D. student, Sun Yat-Sen University, Guangzhou.
 - *2019.06 - 2021.09*, CV researcher, Lenovo AI-LAB, China
 - *2017.09 - 2019.06*, Master, Sun Yat-Sen University, Guangzhou.
