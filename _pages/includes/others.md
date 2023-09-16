@@ -1,9 +1,10 @@
-<!-- 
-# 📖 Educations
-- *2021.09 - present*, PHD student, Sun Yat-Sen University, Guangzhou.
+
+# 📖 Educations \& Research Experience
+- *2021.09 - present*, Ph.D. student, Sun Yat-Sen University, Guangzhou.
+- *2019.06 - 2021.09*, CV researcher, Lenovo AI-LAB, China
 - *2017.09 - 2019.06*, Master, Sun Yat-Sen University, Guangzhou.
 - *2012.09 - 2016.06*, Undergraduate, Sun Yat-Sen University, Guangzhou.
-- *2009.09 - 2012.06*, Foshan First Middle School, Foshan -->
+<!-- - *2009.09 - 2012.06*, Foshan First Middle School, Foshan -->
 
 <!-- # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
