@@ -1,7 +1,7 @@
 <!--🔥⭐️🎉 -->
 
 # 🔥 News
-- *2024.12*: 🎉 One paper ([HETMM](https://arxiv.org/abs/2303.16191)) is accepted by **IJCV**!
+- *2024.12*: 🎉 One paper ([HETMM](https://link.springer.com/article/10.1007/s11263-024-02323-0)) is accepted by **IJCV**!
 - *2023.07*: 🎉 One paper ([CuNeRF](https://narcissusex.github.io/CuNeRF/)) is accepted by **ICCV 2023**!
 - *2021.09*: I started to pursue my PHD degree in [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen) <img src='./images/sysu_logos_nobg.png' style='width: 6em;'>.
 - *2020.11*: 🎉 One paper ([CAL](https://ieeexplore.ieee.org/abstract/document/9262030)) is accepted by **IEEE TIP**!
