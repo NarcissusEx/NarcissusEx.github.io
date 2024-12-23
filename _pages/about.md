@@ -20,7 +20,7 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 <div align="center">
-<a href="https://clustrmaps.com/site/1c335" title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=unSNGp1figO2tjNaZuYF1_Y9Z9temoF8jjd1D2u_d14&cl=ffffff", style="width:390; height:191"></a>
+<a href="https://clustrmaps.com/site/1c335" title="Visit tracker"><img src="https://www.clustrmaps.com/map_v2.png?d=unSNGp1figO2tjNaZuYF1_Y9Z9temoF8jjd1D2u_d14&cl=ffffff", width="390px" height="191px"></a>
 </div>
 &nbsp;
 <div align='right'>Website template credits to <a href="https://github.com/academicpages/academicpages.github.io">Academicpages</a></div>
