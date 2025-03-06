@@ -36,7 +36,7 @@ GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting \\
 </div>
 </div>
 
-<div class='paper-box' style="margin-top:-30px">
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">IJCV</div>
@@ -65,7 +65,7 @@ Hard-normal Example-aware Template Mutual Matching for Industrial Anomaly Detect
 </div>
 </div>
 
-<div class='paper-box' style="margin-top:-30px">
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2023</div>
@@ -92,7 +92,7 @@ CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-S
 </div>
 </div>
 
-<div class='paper-box' style="margin-top:-30px">
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TIP</div>
@@ -116,7 +116,7 @@ This paper aims to employ *contour cues* and *hierarchical attention modules* to
 </div>
 </div>
 
-<div class='paper-box' style="margin-top:-30px">
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE TCSVT</div>
@@ -164,7 +164,7 @@ This paper is a streamlined salient object detector that is beyond the real-time
 
 ## 🌱 Under Reviews
 
-<div class='paper-box'>
+<div class='paper-box' style="margin-top:-30px">
   <div class='paper-box-image'>
     <div>
       <div class="badge">Arxiv 2024</div>
