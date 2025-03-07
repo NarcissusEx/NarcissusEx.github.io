@@ -11,7 +11,7 @@
 <div class='paper-box' style="margin-top:-30px">
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2024</div>
+      <div class="badge">CVPR 2025</div>
       <a href="https://narcissusex.github.io/GuardSplat/">
         <img src='images/guardsplat.png' alt="sym" width="100%">
       </a>
