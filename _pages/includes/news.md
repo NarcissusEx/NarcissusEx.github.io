@@ -1,6 +1,8 @@
 <!--🔥⭐️🎉 -->
 
 # 🔥 News
+- *2025.07*: 🎉 One paper ([SegmentDreamer](https://zjhjojo.github.io/segmentdreamer/)) is accepted by **ICCV 2025**!
+- *2025.06*: I received the Ph.D. degree at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)!
 - *2025.02*: 🎉 One paper ([GuardSplat](https://narcissusex.github.io/GuardSplat/)) is accepted by **CVPR 2025**!
 - *2024.12*: 🎉 One paper ([HETMM](https://link.springer.com/article/10.1007/s11263-024-02323-0)) is accepted by **IJCV**!
 - *2023.07*: 🎉 One paper ([CuNeRF](https://narcissusex.github.io/CuNeRF/)) is accepted by **ICCV 2023**!
