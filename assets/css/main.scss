@@ -60,6 +60,13 @@
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
+        img.paper-image-padded {
+            aspect-ratio: 2 / 1;
+            height: auto;
+            object-fit: contain;
+            object-position: center;
+            background-color: #fff;
+        }
     }
     
     .paper-box-text{

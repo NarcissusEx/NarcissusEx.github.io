@@ -192,7 +192,7 @@ This paper is a streamlined salient object detector that is beyond the real-time
 </div>
 </div>
 
-## 🌱 Under Reviews
+## 🌱 Under Review
 
 <div class='paper-box'>
 
@@ -200,19 +200,20 @@ This paper is a streamlined salient object detector that is beyond the real-time
     <div>
       <div class="badge">Arxiv 2026</div>
       <a href="https://arxiv.org/abs/2608.08585">
-        <img src='images/evtrajgs.png' alt="sym" width="100%">
+        <img class="paper-image-padded" src='images/evtrajgs.png' alt="EvTrajGS overview" width="100%">
       </a>
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
 EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams \\
-****Zixuan Chen****, Jiakai Zhang, Junhao Dong, [Guangcong Wang][wgc], [Jianhuang Lai][ljh], [Yew-Soon Ong][oys], [Xiaohua Xie][xxh].
+**Zixuan Chen**, Jiakai Zhang, Junhao Dong, [Guangcong Wang][wgc], [Jianhuang Lai][ljh], [Yew-Soon Ong][oys], [Xiaohua Xie][xxh].
 
 **EvTrajGS** enables *accurate and efficient 3D reconstruction from unposed event streams* through continuous-time camera trajectory modeling and joint pose-scene optimization.
 
 <a href="https://arxiv.org/abs/2608.08585" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2608.08585-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>
 
+</div>
 </div>
 
 <div class='paper-box' style="margin-top:-30px">
