@@ -83,9 +83,9 @@ Hard-normal Example-aware Template Mutual Matching for Industrial Anomaly Detect
 
 **HETMM** aims to address the *hard mining* issues in Industrial Anomaly Detection, significantly reducing the false alarms.
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hard-nominal-example-aware-template-mutual/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=hard-nominal-example-aware-template-mutual)
+<!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hard-nominal-example-aware-template-mutual/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=hard-nominal-example-aware-template-mutual)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hard-nominal-example-aware-template-mutual/anomaly-detection-on-visa)](https://paperswithcode.com/sota/anomaly-detection-on-visa?p=hard-nominal-example-aware-template-mutual)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hard-nominal-example-aware-template-mutual/anomaly-detection-on-surface-defect-saliency)](https://paperswithcode.com/sota/anomaly-detection-on-surface-defect-saliency?p=hard-nominal-example-aware-template-mutual)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hard-nominal-example-aware-template-mutual/anomaly-detection-on-surface-defect-saliency)](https://paperswithcode.com/sota/anomaly-detection-on-surface-defect-saliency?p=hard-nominal-example-aware-template-mutual) -->
 
 <span class="links">
   <a  href="https://arxiv.org/abs/2303.16191" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2303.16191-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>
