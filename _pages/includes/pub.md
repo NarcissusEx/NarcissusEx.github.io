@@ -3,6 +3,8 @@
 [xxh]: https://cse.sysu.edu.cn/content/2478
 [ljh]: https://cse.sysu.edu.cn/content/2498
 [zhj]: https://github.com/moothes
+[oys]: https://personal.ntu.edu.sg/asysong/home.html
+[zjh]: https://scholar.google.com/citations?user=Mz9vwyEAAAAJ
 
 # 📝 Publications 
 
@@ -20,7 +22,7 @@
 <div class='paper-box-text' markdown="1">
 
 SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation \\
-Jiahao Zhu, **Zixuan Chen**, [Guangcong Wang][wgc], [Xiaohua Xie][xxh], Yi Zhou.\\
+[Jiahao Zhu][zjh], **Zixuan Chen**, [Guangcong Wang][wgc], [Xiaohua Xie][xxh], Yi Zhou.\\
 *IEEE/CVF International Conference on Computer Vision* (**ICCV**), 2025.
 
 **SegmentDreamer** is a novel framework designed to fully unleash the potential of consistency models for high-fidelity text-to-3D generation.
@@ -48,7 +50,7 @@ Jiahao Zhu, **Zixuan Chen**, [Guangcong Wang][wgc], [Xiaohua Xie][xxh], Yi Zhou.
 <div class='paper-box-text' markdown="1">
 
 GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting \\
-**Zixuan Chen**, [Guangcong Wang][wgc], Jiahao Zhu, [Jian-Huang Lai][ljh], [Xiaohua Xie][xxh].\\
+**Zixuan Chen**, [Guangcong Wang][wgc], [Jiahao Zhu][zjh], [Jianhuang Lai][ljh], [Xiaohua Xie][xxh].\\
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2025.
 
 **GuardSplat** aims to effectively protect the copyright of 3DGS assets, achieving superior capacity and fidelity to existing advances.
@@ -76,7 +78,7 @@ GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting \\
 <div class='paper-box-text' markdown="1">
 
 Hard-normal Example-aware Template Mutual Matching for Industrial Anomaly Detection \\
-**Zixuan Chen**, [Xiaohua Xie][xxh], [Lingxiao Yang][ylx], [Jian-Huang Lai][ljh]. \\
+**Zixuan Chen**, [Xiaohua Xie][xxh], [Lingxiao Yang][ylx], [Jianhuang Lai][ljh]. \\
 *International Journal of Computer Vision* (**IJCV**), 2024.
 
 **HETMM** aims to address the *hard mining* issues in Industrial Anomaly Detection, significantly reducing the false alarms.
@@ -104,7 +106,7 @@ Hard-normal Example-aware Template Mutual Matching for Industrial Anomaly Detect
   </div>
 <div class='paper-box-text' markdown="1">
 CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution \\
-**Zixuan Chen**, [Lingxiao Yang][ylx], [Jian-Huang Lai][ljh], [Xiaohua Xie][xxh]. \\
+**Zixuan Chen**, [Lingxiao Yang][ylx], [Jianhuang Lai][ljh], [Xiaohua Xie][xxh]. \\
 *International Conference on Computer Vision* (**ICCV**), 2023.
 
 **CuNeRF** is the first *zero-shot* framework for Medical Image Arbitrary-Scale Super-Resolution.
@@ -132,7 +134,7 @@ CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-S
 <div class='paper-box-text' markdown="1">
 
 Contour-aware loss: Boundary-aware learning for salient object segmentation \\
-**Zixuan Chen**, [Huajun Zhou][zhj], [Jian-Huang Lai][ljh], [Lingxiao Yang][ylx], [Xiaohua Xie][xxh]. \\
+**Zixuan Chen**, [Huajun Zhou][zhj], [Jianhuang Lai][ljh], [Lingxiao Yang][ylx], [Xiaohua Xie][xxh]. \\
 *IEEE Transactions on Image Processing* (**IEEE TIP**), 2021.
 
 This paper aims to employ *contour cues* and *hierarchical attention modules* to locate the salient objects.
@@ -156,7 +158,7 @@ This paper aims to employ *contour cues* and *hierarchical attention modules* to
 <div class='paper-box-text' markdown="1">
 
 Motion-appearance interactive encoding for object segmentation in unconstrained videos \\
-**Zixuan Chen**, Chunchao Guo, [Jian-Huang Lai][ljh], [Xiaohua Xie][xxh]. \\
+**Zixuan Chen**, Chunchao Guo, [Jianhuang Lai][ljh], [Xiaohua Xie][xxh]. \\
 *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2020.
 
 This paper aims to integrate motion and appearance cues to segment the moving object in video.
@@ -178,7 +180,7 @@ This paper aims to integrate motion and appearance cues to segment the moving ob
 <div class='paper-box-text' markdown="1">
 
 Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection \\
-[Huajun Zhou][zhj], [Xiaohua Xie][xxh], [Jian-Huang Lai][ljh], **Zixuan Chen**, [Lingxiao Yang][ylx]. \\
+[Huajun Zhou][zhj], [Xiaohua Xie][xxh], [Jianhuang Lai][ljh], **Zixuan Chen**, [Lingxiao Yang][ylx]. \\
 *Computer Vision and Pattern Recognition Conference* (**CVPR**), 2020.
 
 This paper is a streamlined salient object detector that is beyond the real-time speed!
@@ -192,6 +194,27 @@ This paper is a streamlined salient object detector that is beyond the real-time
 
 ## 🌱 Under Reviews
 
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2026</div>
+      <a href="https://arxiv.org/abs/2608.08585">
+        <img src='images/evtrajgs.png' alt="EvTrajGS" width="100%">
+      </a>
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams \\
+****Zixuan Chen****, Jiakai Zhang, Junhao Dong, [Guangcong Wang][wgc], [Jianhuang Lai][ljh], [Yew-Soon Ong][oys], [Xiaohua Xie][xxh].
+
+**EvTrajGS** enables *accurate and efficient 3D reconstruction from unposed event streams* through continuous-time camera trajectory modeling and joint pose-scene optimization.
+
+<a href="https://arxiv.org/abs/2608.08585" rel="nofollow"><img src="https://img.shields.io/badge/cs.CV-2608.08585-b31b1b?logo=arxiv&logoColor=red" alt="ArXiv" style="max-width: 100%;"></a>
+
+</div>
+
 <div class='paper-box' style="margin-top:-30px">
   <div class='paper-box-image'>
     <div>
@@ -204,7 +227,7 @@ This paper is a streamlined salient object detector that is beyond the real-time
 <div class='paper-box-text' markdown="1">
 
 VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation \\
-**Zixuan Chen**, Ruijie Su, Jiahao Zhu, [Guangcong Wang][wgc], [Lingxiao Yang][ylx], [Jian-Huang Lai][ljh], Shisong Wu, [Xiaohua Xie][xxh].
+**Zixuan Chen**, Ruijie Su, [Jiahao Zhu][zjh], [Guangcong Wang][wgc], [Lingxiao Yang][ylx], [Jianhuang Lai][ljh], Shisong Wu, [Xiaohua Xie][xxh].
 
 **VividDreamer** aims to address the inherent trade-off between optimization costs and reconstruction quality, creating high-fidelity 3D assets in a short time.
 
@@ -228,7 +251,7 @@ VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation \\
 <div class='paper-box-text' markdown="1">
 
 APRF: Anti-Aliasing Projection Representation Field for Inverse Problem in Imaging \\
-**Zixuan Chen**, [Lingxiao Yang][ylx], [Jian-Huang Lai][ljh], [Xiaohua Xie][xxh].
+**Zixuan Chen**, [Lingxiao Yang][ylx], [Jianhuang Lai][ljh], [Xiaohua Xie][xxh].
 
 **APRF** aims to address the *aliasing errors* in Sparse-View Computed Tomography reconstruction.
 

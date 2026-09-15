@@ -1,6 +1,7 @@
 <!--🔥⭐️🎉 -->
 
 # 🔥 News
+- *2026.09*: 🎉 I am honored to be selected for the **2026 Hong Kong Scholars Program (Greater Bay Area Project)**.
 - *2025.07*: 🎉 One paper ([SegmentDreamer](https://zjhjojo.github.io/segmentdreamer/)) is accepted by **ICCV 2025**!
 - *2025.06*: I received the Ph.D. degree at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)!
 - *2025.02*: 🎉 One paper ([GuardSplat](https://narcissusex.github.io/GuardSplat/)) is accepted by **CVPR 2025**!

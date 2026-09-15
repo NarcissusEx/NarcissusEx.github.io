@@ -1,9 +1,9 @@
 
 # 📖 Educations and Research Experience
-- *2021.09 - 2025.06*, Ph.D. student, Sun Yat-Sen University, Guangzhou.
+- *2021.09 - 2025.06*, Ph.D. Degree, Sun Yat-Sen University, Guangzhou.
 - *2019.06 - 2021.09*, CV researcher, Lenovo AI-LAB, China
-- *2017.09 - 2019.06*, Master, Sun Yat-Sen University, Guangzhou.
-- *2012.09 - 2016.06*, Undergraduate, Sun Yat-Sen University, Guangzhou.
+- *2017.09 - 2019.06*, MEng. Degree, Sun Yat-Sen University, Guangzhou.
+- *2012.09 - 2016.06*, BEng. Degree, Sun Yat-Sen University, Guangzhou.
 <!-- - *2009.09 - 2012.06*, Foshan First Middle School, Foshan -->
 
 <!-- # 💬 Invited Talks
