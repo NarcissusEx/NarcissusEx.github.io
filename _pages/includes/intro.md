@@ -3,4 +3,4 @@ I am currently a Postdoctoral Research Fellow at the [School of Computer Science
 
 My research interests focus on 3D/4D scene reconstruction, generation, understanding, and simulation. I have authored **10+** papers in leading computer vision journals and conferences, including **IJCV**, **IEEE TIP**, **IEEE TCSVT**, **ICCV**, and **CVPR**. I have also served as a reviewer for **IEEE TPAMI**, **IJCV**, **IEEE TIP**, **IEEE TVCG**, **CVPR**, **ICCV**, **ECCV**, and **NeurIPS**.
 
-🎉 I was selected for the **2026 Hong Kong Scholars Program (Greater Bay Area Project)** and will conduct postdoctoral research at [The University of Hong Kong](https://www.hku.hk/en) <img src='./images/logo-hku.svg' style='width: 6em;'> (香港大学), working with [Prof. Bo Huang (黄波教授)](https://geog.hku.hk/b-huang).
+🎉 I was selected for the **2026 Hong Kong Scholars Program (Greater Bay Area Project)** and will conduct postdoctoral research at [The University of Hong Kong](https://www.hku.hk/en) <img src='./images/logo-hku.svg.webp' style='width: 6em;'> (香港大学), working with [Prof. Bo Huang (黄波教授)](https://geog.hku.hk/b-huang).

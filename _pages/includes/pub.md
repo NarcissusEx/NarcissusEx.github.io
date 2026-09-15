@@ -200,7 +200,7 @@ This paper is a streamlined salient object detector that is beyond the real-time
     <div>
       <div class="badge">Arxiv 2026</div>
       <a href="https://arxiv.org/abs/2608.08585">
-        <img src='images/evtrajgs.png' alt="EvTrajGS" width="100%">
+        <img src='images/evtrajgs.png' alt="sym" width="100%">
       </a>
     </div>
   </div>
