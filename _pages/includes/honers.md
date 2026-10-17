@@ -1,5 +1,6 @@
 # 🎖 Honors and Awards
 - **2026** Hong Kong Scholars Program (Greater Bay Area Project).
+- **2026** CVPR 2026 Outstanding Reviewer.
 - **2024** 3<sup>rd</sup> Prize for 3D Reconstruction in the Greater Bay Aera (Huangpu) International Algorithm Case Competition (Top 1%).
 - **2021-2025** 2<sup>nd</sup>-class Doctoral Research Scholarship (Top 5%).
 - **2019** 2<sup>nd</sup>-class Master Research Scholarship (Top 5%), *Sun Yat-sen University*.
